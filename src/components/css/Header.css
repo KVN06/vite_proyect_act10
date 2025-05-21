@@ -1,0 +1,15 @@
+.header {
+    background: linear-gradient(135deg, #05ffff4d, #05ffff4d);
+    color: black;
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+
